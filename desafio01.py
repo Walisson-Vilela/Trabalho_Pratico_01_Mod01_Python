@@ -1,5 +1,6 @@
 # 1. Execute e analise a saída do seguinte código no Google Colab1
 
+print('Questao 01\n ')
 inicio = 0
 fim = 100
 
@@ -8,8 +9,7 @@ for numero in range(inicio, fim):
         print(numero)
 
 print('\n')
-print('2. Altere o código da atividade 1 para que ele exiba os números múltiplos \n de 2, 5 e 7 (simultaneamente) e que estejam dentro do intervalo entre 100 e 500 (incluindo o 100 e o 500)\n ')
-
+print('Questao 02\n ')
 
 inicio = 100
 fim = 500
@@ -34,7 +34,7 @@ print(f'Divisores por 07: \n {lista07}')
 
 print('\n')
 
-print('3) Altere o código da atividade 1, criando uma variável divisor e, em seguida,\nverifique quais os números no intervalo entre 0 e 1000 (incluindo o 0 e\nexcluindo o 1000) são múltiplos da variável divisor. \n')
+print('Questão 03\n')
 
 inicio = 0
 fim = 1000
