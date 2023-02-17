@@ -1,12 +1,12 @@
-#Trabalho Prático
+# Trabalho Prático
 Primeiro desafio prático do curso Desenvolvedor Python da XP Educação
 
 1. Execute e analise a saída do seguinte código no Google Colab1
 .
-# declaração das variáveis
+declaração das variáveis
 inicio = 0
 fim = 100
-# verifica quais números são divisíveis por cinco, e exibe aqueles que são
+verifica quais números são divisíveis por cinco, e exibe aqueles que são
 for numero in range(inicio, fim):
  if numero % 5 == 0:
  print(numero)
@@ -22,7 +22,7 @@ Por exemplo, se o valor de divisor for igual a 3, todos os números múltiplos d
 dentro do intervalo, deverão ser exibidos (0, 3, 6, 9, ..., 996, 999).
 
 4. Crie um código declarando as seguintes variáveis do tipo string:
-# variáveis do tipo string
+variáveis do tipo string
 nome = 'João da Silva'
 cidade = 'São Paulo'
 cpf = '123.456.789-00'
